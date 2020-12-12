@@ -28,3 +28,17 @@
     
 }
 
+.legal ul {
+    margin: 15px 20px 15px 20px;
+
+}
+
+.legal li {
+    color: #39a6b2;
+}
+
+.legal p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+}

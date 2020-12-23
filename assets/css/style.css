@@ -231,6 +231,11 @@ h3 {
     top: 1px;
     transform: rotate(-58deg);
   }
+
+  .checkbox-wrapper input:checked + label,
+.radio-wrapper input:checked + label {
+  font-weight: bold;
+}
   
 .checkbox-wrapper input + label::after, 
 .radio-wrapper input + label::after {
